@@ -1,2 +1,2 @@
-# algorithm_C
-MOP Algorithm study
+# EMS(SPROUT)
+Try to build a LSTM Project
